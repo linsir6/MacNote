@@ -20,6 +20,8 @@
 
 - 根绝关键字查询占用情况2: ``netstat -an|grep 8080``
 
+- 查看iterm2的配置: ``nano .zshrc`` 两个我比较喜欢的主题:1.jonathan  2.robbyrussell
+
 
 
 
